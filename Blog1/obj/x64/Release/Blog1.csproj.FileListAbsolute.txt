@@ -1,0 +1,7 @@
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\bin\x64\Release\Blog1.exe.config
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\bin\x64\Release\Blog1.exe
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\bin\x64\Release\Blog1.pdb
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\obj\x64\Release\Blog1.csprojAssemblyReference.cache
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\obj\x64\Release\Blog1.csproj.CoreCompileInputs.cache
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\obj\x64\Release\Blog1.exe
+\\10.0.0.196\visualstudio\BlogPost\Blog1\Blog1\obj\x64\Release\Blog1.pdb
